@@ -213,7 +213,7 @@ $listaProductos = $sentenciaSQL->fetchAll(PDO::FETCH_ASSOC);
 </div>
 
 
-
+/** TODO acregar try - catch */
 
 
 <?php include("../seccion/template/seccionfooter.php") ?>
